@@ -1,0 +1,6 @@
+﻿[mod]
+publishedFileId=0
+Title=CreateStatsAbilities
+Description=This mod allows you to create your own abilities. These abilities can grant stats buff/debuff.
+tags= War of the Chosen, Config, Ability
+RequiresXPACK=true
