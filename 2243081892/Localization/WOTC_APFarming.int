@@ -1,0 +1,5 @@
+[XComGameStateContext_APFarmingEvent]
+strAPRewardFlyoverSingular="by Defeating <XGParam:StrValue0/> <XGParam:StrValue1/>: +<XGParam:IntValue0/> Ability Point"
+strAPRewardFlyoverPlural="by Defeating <XGParam:StrValue0/> <XGParam:StrValue1/>: +<XGParam:IntValue0/> Ability Points"
+strAPRewardBannerSingular="XCOM gained <XGParam:IntValue0/> Ability Point by Defeating <XGParam:StrValue0/> <XGParam:StrValue1/>."
+strAPRewardBannerPlural="XCOM gained <XGParam:IntValue0/> Ability Points by Defeating <XGParam:StrValue0/> <XGParam:StrValue1/>."
